@@ -1,0 +1,10 @@
+.nav {
+    background-color: #000a28;
+    color: white;
+    padding: 10px;
+}
+
+.nav > a {
+    color: white;
+    padding: 10px;
+}
